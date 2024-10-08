@@ -10,7 +10,7 @@ SERVICE_CHOICES = [
     ('Lyft Comfort'),
     ('Lyft Black'),
     ('Lyft Black SUV'),
-    ('LyftX  Share'),
+    ('LyftX Share'),
     ('Lyft Eco'),
 ]
 
@@ -91,7 +91,7 @@ class DriverProfile(models.Model):
             'Lyft Comfort': 120,
             'Lyft Black': 250,
             'Lyft Black SUV': 350,
-            'LyftX  Share': 100,
+            'LyftX Share': 100,
             'Lyft Eco': 80,
         }
 
